@@ -1,0 +1,252 @@
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/11c0c65877b4561f/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\11c0c65877b4561f\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/2b6a42647d92f9b5/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\2b6a42647d92f9b5\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/55ea2c3e80244e6c/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\55ea2c3e80244e6c\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/a10c6472cba8d16d/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\a10c6472cba8d16d\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/a7ab66435ef780bc/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\a7ab66435ef780bc\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/b8ec1061241a478b/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\b8ec1061241a478b\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/d17183ceaa5f5af/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\d17183ceaa5f5af\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/gpub/ec2628025d0c7b56/script.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\blobby\go\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\gpub\ec2628025d0c7b56\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.45.5.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\ceph-p3-01\website-builder-data-prod\static\widgets\UX.4.45.5.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\gfonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\gfonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\gfonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\gfonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\gfonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=h:70,cg:true,m/qt=q:95
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=h70,cgtrue,m\qt=q95
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:114,h:114,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w114,h114,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:120,h:120,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w120,h120,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:144,h:144,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w144,h144,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:152,h:152,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w152,h152,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:180,h:180,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w180,h180,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:210
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w210
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:57,h:57,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w57,h57,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:60,h:60,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w60,h60,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/1500x500.jpg/:/rs=w:72,h:72,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\1500x500.jpg\rs=w72,h72,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\index.htm
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/rs=w:1023
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\rs=w1023
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/rs=w:1160
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\rs=w1160
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/rs=w:1280
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\rs=w1280
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/rs=w:451
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\rs=w451
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/rs=w:767
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\rs=w767
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958193251.jpeg/:/rs=w:984
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958193251.jpeg\rs=w984
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:100%25
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:1023,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:1279,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:1350,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:1534,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:1535,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:1920,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:2046,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:2301,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:2558,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:3069,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:3070,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:3837,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:3840,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:450,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:4605,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:5760,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:767,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/AdobeStock_958194523.jpeg/:/rs=w:900,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\AdobeStock_958194523.jpeg\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/favicon/457bf310-8c44-4c46-a732-f250975b963b/eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg/:/rs=w:16,h:16,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\favicon\457bf310-8c44-4c46-a732-f250975b963b\eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg\rs=w16,h16,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/favicon/457bf310-8c44-4c46-a732-f250975b963b/eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg/:/rs=w:24,h:24,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\favicon\457bf310-8c44-4c46-a732-f250975b963b\eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg\rs=w24,h24,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/favicon/457bf310-8c44-4c46-a732-f250975b963b/eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg/:/rs=w:32,h:32,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\favicon\457bf310-8c44-4c46-a732-f250975b963b\eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg\rs=w32,h32,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/favicon/457bf310-8c44-4c46-a732-f250975b963b/eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg/:/rs=w:48,h:48,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\favicon\457bf310-8c44-4c46-a732-f250975b963b\eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg\rs=w48,h48,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/1b93347a-9ef7-4ac2-b2f9-1b0a2b161318/favicon/457bf310-8c44-4c46-a732-f250975b963b/eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg/:/rs=w:64,h:64,m
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\1b93347a-9ef7-4ac2-b2f9-1b0a2b161318\favicon\457bf310-8c44-4c46-a732-f250975b963b\eead7fe2-1427-4009-be0c-bc2a221a36a0.jpg\rs=w64,h64,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:400
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\static\transparent_placeholder.png\rs=w400
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:451
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\isteam\ip\static\transparent_placeholder.png\rs=w451
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\signals\js\clients\scc-c2\scc-c2.min.js
+Content Type: text/javascript
+
+Uri: https://nobeldaosummit.com/
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\index.htm
+Content Type: text/html
+
+Uri: https://nobeldaosummit.com/agenda
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\agenda.html
+Content Type: text/html
+
+Uri: https://nobeldaosummit.com/h:650
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\h650
+Content Type: text/html
+
+Uri: https://nobeldaosummit.com/organizers
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\organizers.html
+Content Type: text/html
+
+Uri: https://nobeldaosummit.com/organizersh:70
+File Name: C:\Downloaded Web Sites\nobeldaosummit.com\organizersh70
+Content Type: text/html
+
